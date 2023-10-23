@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate front-end developer skilled in React.js .<br>Complemented by a decent understanding of OOPs in C++ .<br>Proven ability to work independently and as part of a team to deliver high-quality products.<br>Strong understanding of HTML, CSS, JavaScript, and React.js.
+- Passionate front-end developer skilled in React.js .<br>- Complemented by a decent understanding of OOPs in C++ .<br>- Proven ability to work independently and as part of a team to deliver high-quality products.<br>- Strong understanding of HTML, CSS, JavaScript, and React.js.
 
 
 ## 🌐 Socials:
